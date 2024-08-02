@@ -1,3 +1,3 @@
-# uptime-Kuma
+# Open Source Monitoring application
 
 ![image](monitoring.png)
