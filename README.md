@@ -30,7 +30,7 @@
 </ul>
 
  <h2><strong>A.Navigate to Ec2 Dashboard</strong></h2>
-<h2>2. Launch an Ec2 instance</h2>
+<h3>2. Launch an Ec2 instance</h3>
 <ul>
   <li>Go to the <a href="https://aws.amazon.com/console/ec2/">EC2 Dashboard</a>
 </li>
