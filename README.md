@@ -75,3 +75,16 @@
   </ul>
 </ul>
 <ul><li><strong>Warning:</strong>Opening all ports should be for learning purposes only in a controlled environment</li></ul>
+<li>Clic "Review and Launch"</li>
+<h2>H.Review Instance Launch:</h2>
+<ul>
+  <li>Review all configurations</li>
+  <li>Click "Launch"</li>
+</ul>
+<h2>I.Select/Create a new key-pair:</h2>
+<ul>
+  <li>Select "Create a new key pair</li>
+  <li>Name the key pair</li>
+  <li>Download the key pair file (.pem)and store it securely.</li>
+  <li>Click "Launch Instances".</li>
+</ul>
