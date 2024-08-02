@@ -44,6 +44,7 @@
 <ul>
   <li>select t2.large instance</li>
   <li>Click "Next: configure instance Details</li>
+</ul>
 <h2>D. Configure Instance Details</h2>
   <ul>
     <li>Use the default settings</li>
