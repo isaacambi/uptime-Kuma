@@ -22,4 +22,4 @@
     <li>Sleek, User-friendly interface</li>
   </ul>
 </div>
-<p>Now, let's get started and <b>dig deeper into each of these steps:</b></p>
+ <b> Now, let's get started anddig deeper into each of these steps:</b>
