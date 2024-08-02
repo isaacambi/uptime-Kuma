@@ -35,3 +35,8 @@
   <li>Go to the <a href="https://aws.amazon.com/console/ec2/">EC2 Dashboard</a>
 </li>
 </ul>
+<h2>Choose an Amazon Machine Image (AMI):</h2>
+<ul>
+  <li>click "Launch Instance"</li>
+  <li>In the AMI Selection Screen for "Ubuntu 24.04".</li>
+</ul>
