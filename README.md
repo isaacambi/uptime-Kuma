@@ -35,8 +35,42 @@
   <li>Go to the <a href="https://aws.amazon.com/console/ec2/">EC2 Dashboard</a>
 </li>
 </ul>
-<h2>Choose an Amazon Machine Image (AMI):</h2>
+<h2>B.Choose an Amazon Machine Image (AMI):</h2>
 <ul>
   <li>click "Launch Instance"</li>
   <li>In the AMI Selection Screen for "Ubuntu 24.04".</li>
+</ul>
+<h2>C. Choose an Instance Type:</h2>
+<ul>
+  <li>select t2.large instance</li>
+  <li>Click "Next: configure instance Details</li>
+<h2>D. Configure Instance Details</h2>
+  <ul>
+    <li>Use the default settings</li>
+    <li>Ensure you have selected the correct VPC and subnet</li>
+    <li>Click "Next: Add Storage</li>
+  </ul>
+<h2>E.Add Storage</h2>
+<ul>
+  <li>Modify the root volume size to 30GB</li>
+  <li>Click "Next: Add Tags"</li>
+</ul>
+<h2>F.Next Add Tags</h2>
+<ul>
+  <li>(optional) Add tags for better management</li>
+  <li>Click "Next: Configure Security Group"</li>
+</ul>
+<h2>G. Configure Security Groups</h2>
+  <ul>
+    <li>create a new security group</li>
+    <li>Set the security group name and description</li>
+    <li>Add a rule to allow all traffic(not recommended for production environments)</li>
+    <ul>
+      <li>Type:All Traffic</li>
+      <li>Protocol:All</li>
+      <li>Port Range:All</li>
+      <li>Port Range:22, 80,443,8080,9000,3001,5000,</li>
+      <li>Source:0.0.0.0/0(for Ipv4) and ::/0(for Ipv6)</li>
+    </ul>
+  </ul>
 </ul>
