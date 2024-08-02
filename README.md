@@ -29,7 +29,7 @@
   <li>Login to AWS management Console.</li>
 </ul>
 
-<strong>Navigate to Ec2 Dashboard</strong>
+ <h2><strong>Navigate to Ec2 Dashboard</strong></h2>
 <h2>2. Launch an Ec2 instance</h2>
 <ul>
   <li>Go to the <a href="https://aws.amazon.com/console/ec2/">EC2 Dashboard</a>
