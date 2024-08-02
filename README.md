@@ -74,7 +74,7 @@
       <li>Source:0.0.0.0/0(for Ipv4) and ::/0(for Ipv6)</li>
     </ul>
   </ul>
-</ul>
+
 <ul><li><strong>Warning:</strong>Opening all ports should be for learning purposes only in a controlled environment</li></ul>
   <li>Click "Review and Launch"</li>
 <h2>H.Review Instance Launch:</h2>
