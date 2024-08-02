@@ -28,3 +28,8 @@
   <li>If you don't have and AWS account sign up at <a href="https://aws.amazon.com/activate/registration">AWS Sign Up</li>
   <li>Login to AWS management Console.</li>
 </ul>
+<h2>2. Launch an Ec2 instance</h2>
+<ul>
+  <li>Go to the <a href="https://aws.amazon.com/console/ec2/">EC2 Dashboard</a>
+</li>
+</ul>
