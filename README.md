@@ -76,7 +76,7 @@
   </ul>
 </ul>
 <ul><li><strong>Warning:</strong>Opening all ports should be for learning purposes only in a controlled environment</li></ul>
-<li>Clic "Review and Launch"</li>
+  <li>Click "Review and Launch"</li>
 <h2>H.Review Instance Launch:</h2>
 <ul>
   <li>Review all configurations</li>
