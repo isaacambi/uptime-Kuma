@@ -23,4 +23,4 @@
   </ul>
 </div>
  <b> Now, let's get started anddig deeper into each of these steps:</b>
-<h1>AWS Account and login</h1>
+<h1>1. AWS Account and login</h1>
