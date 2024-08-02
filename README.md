@@ -74,3 +74,4 @@
     </ul>
   </ul>
 </ul>
+<ul><li><strong>Warning:</strong>Opening all ports should be for learning purposes only in a controlled environment</li></ul>
