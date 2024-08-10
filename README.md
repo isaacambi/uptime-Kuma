@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Source Monitoring application
 
 ![image](monitoring.png)
@@ -89,3 +90,12 @@
   <li>Download the key pair file (.pem)and store it securely.</li>
   <li>Click "Launch Instances".</li>
 </ul>
+
+<div align="center" width="100%">
+    <img src="./public/icon.svg" width="128" alt="" />
+</div>
+
+# Uptime Kuma
+
+Uptime Kuma is an easy-to-use self-hosted monitoring tool.
+ 044fbf5 (uptime-kuma project)
